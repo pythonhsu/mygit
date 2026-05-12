@@ -6,8 +6,8 @@
 - index.html 首頁
 
 # 常用指令
-git status
-git add --all
-git commit -m "說明本次修改"
-git push
-git pull
+- git status
+- git add --all
+- git commit -m "說明本次修改"
+- git push
+- git pull
